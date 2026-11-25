@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Google Android Open Accessory (AOA) modes (VID 0x18D1 = 6353) -->
+    <usb-device vendor-id="6353" product-id="11520" />
+    <usb-device vendor-id="6353" product-id="11521" />
+    <usb-device vendor-id="6353" product-id="11524" />
+    <usb-device vendor-id="6353" product-id="11525" />
+
+    <!-- Android ADB interface (Class 0xFF=255, Subclass 0x42=66, Protocol 0x01=1) -->
+    <usb-device class="255" subclass="66" protocol="1" />
+</resources>
